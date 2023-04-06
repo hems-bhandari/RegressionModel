@@ -42,4 +42,4 @@ model.fit(X, y)
 X_new = [6, 7, 8, 9, 10]
 y_pred = model.predict(X_new)
 
-print(y_pred) # Output: [5.2, 5.9, 6.6, 7.3, 8.0]
+print(y_pred)
